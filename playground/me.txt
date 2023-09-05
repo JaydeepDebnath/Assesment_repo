@@ -1,0 +1,5 @@
+{{#user}}
+Name: Jaydeep Debnath
+Skills: HTML, CSS, JS, Django,Flask,Java,AI @ ML
+Email: Jaydeepdebnath789@gmail.com
+{{/user}}
